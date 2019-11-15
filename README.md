@@ -23,6 +23,9 @@ In LED Blink Revisited we made a LED fade in and out instead of just turning on 
 * Analog Write https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/
 * For Loops https://www.arduino.cc/reference/en/language/structure/control-structure/for/
 
+## Hello LCD 
+
+
 ## LCD_Backpack 
 
 ### Desription 
@@ -38,5 +41,4 @@ In LCD Backpack we had the LCD Print the number of times the button was pushed.
 
 ### Notes
 * LCD Backpack https://www.adafruit.com/product/292
-
-** If Loops https://www.arduino.cc/reference/en/language/structure/control-structure/if/
+* If Loops https://www.arduino.cc/reference/en/language/structure/control-structure/if/
