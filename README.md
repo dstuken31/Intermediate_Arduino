@@ -25,10 +25,15 @@ In LED Blink Revisited we made a LED fade in and out instead of just turning on 
 
 ## Hello LCD 
 
+### Description 
+
+### Wiring Diagram 
+
+### What I Learned
 
 ## LCD_Backpack 
 
-### Desription 
+### Description 
 
 In LCD Backpack we had the LCD Print the number of times the button was pushed.
 
