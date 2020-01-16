@@ -10,7 +10,7 @@ int previousbuttonState = 0;
 void setup() {
 lcd.init();
 lcd.backlight();
-lcd.print("Button Presses");
+lcd.print("Button Presses");  // Prints the word Button Presses
 Serial.begin(9600);
 
 }
@@ -18,17 +18,17 @@ Serial.begin(9600);
 
 
 void loop() {
-buttonState = digitalRead(buttonPin);
-lcd.setCursor(0, 1);
+buttonState = digitalRead(buttonPin); // Reads if button is being pushed
+lcd.setCursor(0, 1); // Sets the cursor (Colum 1 Line 0)
 
-if(buttonState == HIGH && previousbuttonState == LOW){
+if(buttonState == HIGH && previousbuttonState == LOW){ // so it counts correctly 
 
-	counter +=1;
-	lcd.print(counter);
+	counter +=1; // Counter Goes up by one
+	lcd.print(counter); // Prints the Number of the counter onto the LCD
 }
-previousbuttonState = buttonState;
+previousbuttonState = buttonState; 
 
 Serial.print("");
-Serial.println(counter);
+Serial.println(counter); // prints the number of the counter onto the Serial Monitor
 
 }
