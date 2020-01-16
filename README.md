@@ -31,8 +31,9 @@ Credit: Paul B. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Paul%2
 
 In Hello LCD we used an LCD screen to print "Hello World" and print the number of seconds the code was active. 
 
-### What I Learned
+### Lessons Learned
 
+I spent so much time cutting 16 even wires to connect the LCD to the breadbord.  Please never overcomplicate things when you could just do a much simpiler task.  
 * The Basics of the LCD Screen*
 * The Liquid Crystal Library**
 
@@ -51,9 +52,11 @@ Credit: Paul B. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Paul%2
 
 ### Description 
 
-In LCD Backpack we had the LCD Print the number of times the button was pushed.
+In LCD Backpack we had the LCD Print the number of times the button was pushed. 
 
 ### What I Learned 
+
+I had trouble with my button and the fact that it continued to go up in number until I pressed it again. To fix this I used this line of code (if(buttonState == HIGH && previousbuttonState == LOW)) to make sure it didn't continuously increase.
 * How to use the LCD Backpack* Instead of connecting all 16 pins 
 * How to use If Loops**
 
