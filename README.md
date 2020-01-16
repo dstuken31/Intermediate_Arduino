@@ -8,12 +8,12 @@ Credit: Imogen A. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Imog
 
 ### Description 
 
-In LED Blink Revisited we made a LED fade in and out instead of just turning on and off.  
+In LED Blink Revisited we made a LED fade in and out instead of just turning on and off.  We had to learn to use Analog Write instead of Digital Write to get the LED to fade.  We also had to have a serial monitor correspond with the LED.  
 
-### What I Learned
+### Lessons Learned
 
-* Don't Be Afraid to look things up 
-* You don't have to reinvent the wheel, just improve it 
+The biggest struggle completing this assignment was not remembering anything from last year.  After looking at some of my old code and the CHS Wiki page I was able to complete the assignment. 
+
 * How to Use Analog Write* and For Loops**
 
 ### Notes
@@ -29,7 +29,7 @@ Credit: Paul B. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Paul%2
 
 ### Description 
 
-In Hello LCD we used an LCD screen to print "Hello World" and print the number of seconds the code was active.
+In Hello LCD we used an LCD screen to print "Hello World" and print the number of seconds the code was active. 
 
 ### What I Learned
 
