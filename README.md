@@ -2,7 +2,9 @@
 
 ## LED_Blink_Revisited
 
- So this way you can make changes online.  just make sure you PULL this down before you do any local work!!
+### Wiring
+![wiring diagram](http://wiki.chssigma.com/images/e/e8/Fritzing_LED_fade.PNG)
+Credit: Imogen A. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Imogen%27s_Engineering_2_Notebook#Wiring_.26_Pictures)
 
 ### Description 
 
@@ -21,6 +23,10 @@ In LED Blink Revisited we made a LED fade in and out instead of just turning on 
 
 ## Hello LCD***
 
+### Wiring
+![wiring diagram](http://wiki.chssigma.com/images/e/e0/Lcdcap1.PNG)
+Credit: Paul B. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Paul%27s_Engineering_2_Notebook#Wiring_and_Pictures)
+
 ### Description 
 
 In Hello LCD we used an LCD screen to print "Hello World" and print the number of seconds the code was active.
@@ -37,6 +43,11 @@ In Hello LCD we used an LCD screen to print "Hello World" and print the number o
 * THIS CODE IS DONE BY THE MAGNIFICENT HARRIET NOVAK (follow her at hnovak 94 https://github.com/hnovak94)
 
 ## LCD_Backpack 
+
+
+### Wiring
+![wiring diagram](http://wiki.chssigma.com/images/5/5d/Capswitch%601.PNG)
+Credit: Paul B. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Paul%27s_Engineering_2_Notebook#Wiring_and_Pictures)
 
 ### Description 
 
