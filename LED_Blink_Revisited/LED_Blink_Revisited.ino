@@ -1,3 +1,8 @@
+// LED Blink Revisited 
+// Dylan Stukenberg
+// How to Use Analog Write* https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/and
+// For Loops** https://www.arduino.cc/reference/en/language/structure/control-structure/for/
+
 int ledPin = 9;    // LED connected to digital pin 9
 int dash;
 int x;
